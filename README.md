@@ -35,5 +35,7 @@ Also passionate about design — comfortable working in Figma and Photoshop.
 **Languages**
 
 Russian — Native
+
 Turkish — Fluent
+
 English — Intermediate
