@@ -1,40 +1,32 @@
-# Projeler
+### Hi, I'm makhsudov 👋
 
-## [SifreKutusu - Şifre Yöneticisi](https://github.com/makhsudov/SifreKutusu)
-Güvenli şifre saklama ve yönetim sistemi
+CS student at Bursa Teknik Üniversitesi · Currently focusing on web development
 
-**Tech Stack:** PHP, MySQL, HTML, TailwindCSS, JavaScript, AES-256-CBC
-
-[Demo Video](https://youtu.be/wTkLXYwaaBc)
+🌐 **Portfolio:** [makhsudov.github.io](https://makhsudov.github.io)
+📬 **Email:** mkhsdv27@gmail.com
 
 ---
 
-## [Hamming Code Simulator](https://github.com/makhsudov/HammingCodeSimulator)
-Hata tespit ve düzeltme algoritması simülatörü
+**Stack**
 
-**Tech Stack:** Python
-
-[Demo Video](https://youtu.be/DwC2nwy0Hlw)
-
----
-
-## [Syntax Highlighter](https://github.com/makhsudov/SyntaxHighlighter)
-Kod sözdizimi vurgulama aracı
-
-**Tech Stack:** Python
-
-[Demo Video](https://youtu.be/b8V-WN-o0so)
-
----
-
-## [Kırım - Kişisel Web Sitesi](https://github.com/makhsudov/makhsudov.github.io/tree/main/kirim)
-Memleketim Kırım hakkında bilgilendirme sitesi
-
-**Tech Stack:** HTML, CSS
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ---
 
-## [WTP Oyun Projesi](https://github.com/makhsudov/makhsudov.github.io/tree/main/WTP_Proje1)
-İnteraktif web tabanlı oyun
+**Design**
 
-**Tech Stack:** HTML, CSS, JavaScript
+Also passionate about design — comfortable working in Figma and Photoshop.
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
