@@ -1,8 +1,7 @@
-### Hi, I'm makhsudov 👋
-
-CS student at Bursa Teknik Üniversitesi · Currently focusing on web development
+CS student at Bursa Teknik Üniversitesi · Currently focusing on web development, UI/UX design and project management.
 
 🌐 **Portfolio:** [makhsudov.github.io](https://makhsudov.github.io)
+
 📬 **Email:** mkhsdv27@gmail.com
 
 ---
@@ -30,3 +29,11 @@ Also passionate about design — comfortable working in Figma and Photoshop.
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+
+--- 
+
+**Languages**
+
+Russian — Native
+Turkish — Fluent
+English — Intermediate
